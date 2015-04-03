@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Whatcopter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">FIND IT</string>
+    <string name="edit_message">holla in this box mofucker</string>
+    <string name="button_send">make the words go</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">The Gospel</string>
+<string name="button_what">this is your destiny</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_google_play">GooglePlay</string>
+
+</resources>
